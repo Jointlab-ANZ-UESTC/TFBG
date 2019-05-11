@@ -1,4 +1,4 @@
-from PyH.PyH.pyh import *
+from pyh import *
 
 ''' 
 
